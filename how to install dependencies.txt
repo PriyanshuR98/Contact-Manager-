@@ -1,0 +1,7 @@
+ --legacy-peer-deps
+
+npm  --legacy-peer-deps install  --save-dev
+
+for installing dependenices of server or client
+'
+go to particular folder and install one in everyfolder that has package.json file..
